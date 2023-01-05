@@ -17,4 +17,5 @@ Proutes 7.7+ VScode
 - Temprature sensor
 - Falme sensor the light 
 
-![Capture](https://user-images.githubusercontent.com/76526170/210875921-7cc26574-e28b-41ec-9418-fecd43f589e5.PNG)
+
+![Capture](https://user-images.githubusercontent.com/76526170/210877417-0534ee6a-34c1-4096-aaa4-0859452f5dfa.PNG)
